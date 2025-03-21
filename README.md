@@ -1,3 +1,3 @@
 # MainPage
 
-I am begginig bioinformatics!
+I am beggining bioinformatics!
