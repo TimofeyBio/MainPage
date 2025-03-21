@@ -1,2 +1,3 @@
 # MainPage
-Main page my git
+
+I am begginig bioinformatics!
